@@ -85,13 +85,25 @@ class ShivamShukla:
 <img src="https://img.shields.io/badge/Voyage_AI-6C3EF4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agent_Architecture-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-1C3C3C?style=for-the-badge"/>
+
+**LLM APIs**
+
+<img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 **Backend & APIs**
 
 <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+<img src="https://img.shields.io/badge/Async_Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
 </td>
 <td valign="top" width="50%">
@@ -102,6 +114,7 @@ class ShivamShukla:
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Flow-FF0072?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 **Databases & Vector Stores**
 
@@ -111,22 +124,57 @@ class ShivamShukla:
 <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 
-**ML, Deep Learning & Data**
+**ML, Deep Learning, Data & Stats**
 
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoML-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hypothesis_Testing-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/A%2FB_Testing-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+**BI, Visualization & Reporting**
+
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
 
 **Cloud, DevOps & Tools**
 
 <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,linux&theme=dark" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+### 🔥 Trending & Currently Exploring
+
+<div align="center">
+
+*What's actively shaping the agentic AI space right now, and what's on my radar for SentinelIQ and beyond.*
+
+<img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/A2A_Protocol-5271FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/vLLM-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter-6E56CF?style=for-the-badge"/>
+
+</div>
 
 <br/>
 
