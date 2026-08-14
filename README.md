@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0f172a&height=280&section=header&text=SHIVAM%20SHUKLA&fontSize=80&fontColor=8b5cf6&fontAlignY=30&desc=Systems%20Engineer%20/%20AI%20Architect%20/%20RAG%20Specialist&descAlignY=55&descSize=18&animation=fadeIn&font=Fira%20Code"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:14b8a6&height=260&section=header&text=SHIVAM%20SHUKLA&fontSize=75&fontColor=ffffff&fontAlignY=32&desc=Systems%20Engineer%20/%20AI%20Architect%20/%20RAG%20Specialist&descAlignY=56&descSize=17&animation=fadeIn&font=Fira%20Code"/>
 
 <br/>
 
 <a href="https://github.com/shivamim">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=14B8A6&center=true&vCenter=true&width=800&lines=Building+production-grade+multi-agent+LLM+systems;Hybrid+RAG+with+BM25+%2B+vector+%2B+RRF+%2B+rerank;LangGraph+orchestration+at+11-node+complexity;Shipping+NABH-compliant+healthtech+SaaS+for+India;PyPI-published+CLI+tools+for+embedding+pipelines" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=14B8A6&center=true&vCenter=true&width=850&lines=Building+production-grade+multi-agent+LLM+systems;Hybrid+RAG+with+BM25+%2B+vector+%2B+RRF+%2B+rerank;LangGraph+orchestration+at+11-node+complexity;Shipping+NABH-compliant+healthtech+SaaS+for+India;PyPI-published+CLI+tools+for+embedding+pipelines" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -21,23 +21,59 @@
 
 ## ABOUT
 
-I do not write prompt wrappers and call them products. I build end-to-end systems: schema design, async backends, real-time frontends, deployment pipelines, evaluation frameworks, and compliance layers. Solo.
+```python
+class ShivamShukla:
+    """
+    Systems Engineer / AI Architect / RAG Specialist
+    Location: India
+    """
 
-Currently shipping **Ojas HealthTech V2**, a multi-tenant SaaS platform that monitors post-discharge patients over WhatsApp with AI-driven risk scoring and one-click NABH compliance reporting for Indian hospitals. Also maintaining **ragbt**, a PyPI-published CLI tool that brings dbt-style declarative pipelines to RAG embedding workflows.
+    def __init__(self):
+        self.role = "AI Engineer + Data Analyst + Builder of Multi-Agent Systems"
+        self.stack = ["SQL", "Power BI", "FastAPI", "LangGraph", "PyTorch"]
+        self.focus = [
+            "Multi-agent AI systems",
+            "Healthtech SaaS",
+            "Hybrid RAG",
+            "PyPI tooling"
+        ]
+        self.ask_me_about = [
+            "LangGraph", "Hybrid RAG", "FastAPI",
+            "Power BI", "AutoML", "PyPI tooling"
+        ]
 
-My stack is grounded in SQL, statistical analysis, and Power BI. That foundation means every AI system I ship cares about retrieval metrics, grounding verification, SHAP explainability, and measurable business impact.
+    def philosophy(self) -> str:
+        return (
+            "I do not write prompt wrappers and call them products. "
+            "I build end-to-end systems: schema design, async backends, "
+            "real-time frontends, deployment pipelines, evaluation frameworks, "
+            "and compliance layers. Solo."
+        )
 
-<div align="center">
+    def currently_building(self) -> dict:
+        return {
+            "Ojas HealthTech V2": (
+                "Multi-tenant SaaS for Indian hospitals. "
+                "WhatsApp post-discharge monitoring + AI risk scoring + "
+                "one-click NABH compliance reporting."
+            ),
+            "ragbt": (
+                "PyPI-published CLI. dbt-style declarative pipelines "
+                "for RAG embedding workflows. Incremental. Tested."
+            ),
+            "SentinelIQ": (
+                "Agentic hybrid RAG for cybersecurity. 11-node LangGraph. "
+                "Grounding verification + abstention."
+            )
+        }
 
-| | |
-|---|---|
-| **Education** | B.Tech, Dr. APJ Abdul Kalam Technical University |
-| **Certification** | IBM Data Science Professional Certificate (CampusX Mentorship) |
-| **Location** | India |
-| **Focus** | Multi-agent AI systems / Healthtech SaaS / Applied ML / Hybrid RAG |
-| **Ask me about** | LangGraph, Hybrid RAG, FastAPI, Power BI, AutoML, PyPI tooling |
-
-</div>
+    def foundation(self) -> str:
+        return (
+            "Grounded in SQL, statistical analysis, and Power BI. "
+            "Every AI system ships with retrieval metrics, grounding verification, "
+            "SHAP explainability, and measurable business impact."
+        )
+```
 
 ---
 
